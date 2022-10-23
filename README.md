@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 Atualmente sou estudante de ADS
-- 🌱 Faço bootcamp na DIO com foco em front-end
+- 🌱 Faço bootcamp na DIO e no FreeCodeCamp com foco em front-end
 - 😄 Pronome: ele/dele
 
 <div align="center">
