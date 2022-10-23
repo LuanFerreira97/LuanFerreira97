@@ -3,7 +3,7 @@
 
 - 👨‍💻 Atualmente sou estudante de ADS
 - 🌱 Faço bootcamp na DIO e no FreeCodeCamp com foco em front-end
-- 😄 Pronome: ele/dele
+- 📍 São Paulo - SP
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luan-ferreira-1194b5147/">
