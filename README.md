@@ -1,4 +1,4 @@
-### Olá! Eu sou o Luan, tenho 25 anos👋
+### Olá! Eu sou o Luan👋
 
 
 - 👨‍💻 Atualmente sou estudante de ADS
