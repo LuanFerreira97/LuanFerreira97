@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Luan👋
 
 
-- 👨‍💻 Atualmente sou estudante de ADS
-- 🌱 Faço bootcamp na DIO e no FreeCodeCamp com foco em front-end
+- 👨‍💻 Sou estudante de ADS e atualmente estou aprendendo React js
+- 🌱 Faço bootcamps com foco em front-end
 - 📍 São Paulo - SP
 
 <div align="center">
